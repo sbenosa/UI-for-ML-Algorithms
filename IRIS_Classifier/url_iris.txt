@@ -1,0 +1,11 @@
+http://127.0.0.1:5000/predict?s_length=5.9&s_width=3&p_length=5.1&p_width=1.8
+http://127.0.0.1:5000/predict?s_length=7.9&s_width=2&p_length=4.4&p_width=2.1
+
+
+http://127.0.0.1:5000/predict_file
+
+flassger
+http://127.0.0.1:5000/apidocs
+
+
+http://localhost:5000/apidocs

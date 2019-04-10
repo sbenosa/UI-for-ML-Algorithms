@@ -1,0 +1,76 @@
+position,experience_total_years,industry,salary
+programmer,1,IT,4000
+programmer,2,IT,4200
+programmer,3,IT,4410
+programmer,4,IT,4631
+programmer,5,IT,4863
+senior programmer,6,IT,5000
+senior programmer,7,IT,5250
+senior programmer,8,IT,5513
+senior programmer,9,IT,5789
+senior programmer,10,IT,6078
+manager,11,IT,6500
+manager,12,IT,6825
+manager,13,IT,7166
+manager,14,IT,7524
+manager,15,IT,7900
+teller,1,Bank,1500
+teller,2,Bank,1575
+teller,3,Bank,1654
+teller,4,Bank,1737
+teller,5,Bank,1824
+senior teller,6,Bank,2500
+senior teller,7,Bank,2625
+senior teller,8,Bank,2756
+senior teller,9,Bank,2894
+senior teller,10,Bank,3039
+manager,11,Bank,3500
+manager,12,Bank,3675
+manager,13,Bank,3859
+manager,14,Bank,4052
+manager,15,Bank,4255
+recruiter,1,HR,1200
+recruiter,2,HR,1260
+recruiter,3,HR,1323
+recruiter,4,HR,1389
+recruiter,5,HR,1458
+senior recruiter,6,HR,2000
+senior recruiter,7,HR,2100
+senior recruiter,8,HR,2205
+senior recruiter,9,HR,2315
+senior recruiter,10,HR,2431
+manager,11,HR,3000
+manager,12,HR,3150
+manager,13,HR,3308
+manager,14,HR,3473
+manager,15,HR,3647
+engineer,1,Engineering,2500
+engineer,2,Engineering,2625
+engineer,3,Engineering,2756
+engineer,4,Engineering,2894
+engineer,5,Engineering,3039
+senior engineer,6,Engineering,3500
+senior engineer,7,Engineering,3675
+senior engineer,8,Engineering,3859
+senior engineer,9,Engineering,4052
+senior engineer,10,Engineering,4255
+manager,11,Engineering,4500
+manager,12,Engineering,4725
+manager,13,Engineering,4961
+manager,14,Engineering,5209
+manager,15,Engineering,5469
+barista,1,F&B,900
+barista,2,F&B,945
+barista,3,F&B,992
+barista,4,F&B,1042
+barista,5,F&B,1094
+senior barista,6,F&B,1200
+senior barista,7,F&B,1260
+senior barista,8,F&B,1323
+senior barista,9,F&B,1389
+senior barista,10,F&B,1458
+manager,11,F&B,2200
+manager,12,F&B,2310
+manager,13,F&B,2426
+manager,14,F&B,2547
+manager,15,F&B,2674

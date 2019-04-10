@@ -1,0 +1,4 @@
+position (i.e. programmer
+experience_total_years (i.e. 1-5)
+industry (i.e IT)
+salary (dependent variable)
